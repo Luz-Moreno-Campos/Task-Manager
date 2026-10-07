@@ -1,4 +1,4 @@
-# 📝 To‑Do App
+# 📝 Task Manager
 
 A clean, modern, React‑based task manager designed to help you stay organized and productive.  
 Create tasks, edit them, mark them as completed, and remove them — all with a simple, intuitive interface and persistent storage.
@@ -58,7 +58,12 @@ On page load, the app restores tasks automatically.
 - React 
 - React Icons
 - LocalStorage API
-- GitHub 
+- GitHub
+
+## Application Screenshot
+
+![Application ScreenShot](assets/media/ScreenshotTasks.png)
+
 
 ## 🌐 Live Demo
 
