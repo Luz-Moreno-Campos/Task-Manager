@@ -62,7 +62,7 @@ On page load, the app restores tasks automatically.
 
 ## Application Screenshot
 
-![Application ScreenShot](assets/media/ScreenshotTasks.png)
+![Application ScreenShot](assets/media/Screenshot.png)
 
 
 ## 🌐 Live Demo
